@@ -12,4 +12,4 @@ age = int(input ('Please enter your age to continue: '))
 if age >=18:
     print ("Access allowed")
 else:
-    print ("Access denied")
+    print ("Access denied") 
