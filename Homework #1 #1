@@ -1,0 +1,15 @@
+# PEP 8
+print ('Hello to HM#1#1')
+Name = input ('Enter your name: ')
+Lastname = input ('Enter your last name: ')
+print ("Greetings " + Name +" "+ Lastname+"!")
+print ("Well Done!")
+print ("Let's calculate :)")
+num = int(input ("Please enter any number: "))
+print ("Your number plus 2 is: ")
+print (2 + num)
+age = int(input ('Please enter your age to continue: '))
+if age >=18:
+    print ("Access allowed")
+else:
+    print ("Access denied")
